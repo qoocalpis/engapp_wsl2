@@ -1,3 +1,7 @@
 /.venv
 /db.sqlite3
 /manage.py
+engapp/__pycache__/models.cpython-38.pyc
+engapp/__pycache__/models.cpython-38.pyc
+django_project/__pycache__/settings.cpython-38.pyc
+django_project/__pycache__/urls.cpython-38.pyc
